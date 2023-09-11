@@ -1,7 +1,7 @@
 # DVRP-trigger-comparison
 Performance comparison of endogenous vs. exogenous reoptimisation triggers on the Uchoa et. al. 2017 Set X VRP benchmarks.
 
-Results data for research paper "Reoptimisation strategies for Dynamic Vehicle Routing Problems with proximity-dependent nodes." 
+Results data for research paper "Reoptimisation strategies for Dynamic Vehicle Routing Problems with proximity-dependent nodes." https://doi.org/10.1007/s11750-023-00656-6
 
 The Set X entended benchmarks includes three geographical node distribution sets: clusterd (C), random-clustered (RC), and random (R). There are 20 unique  Vehicle Routing Problems (VRP) instances in each set. 
 
